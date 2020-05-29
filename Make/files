@@ -1,0 +1,12 @@
+locDynSmagorinsky/locDynSmagorinsky.C
+lagrangianScaleInvariant/lagrangianScaleInvariant.C
+/* lagrangianScaleInvariantAlgebraic/lagrangianScaleInvariantAlgebraic.C */
+dynYouMoin/dynYouMoin.C
+oneEqEddy2/oneEqEddy2.C
+dynOneEqEddy2/dynOneEqEddy2.C
+locDynOneEqEddy2/locDynOneEqEddy2.C
+dynSmagorinsky2/dynSmagorinsky2.C
+Smagorinsky3/Smagorinsky3.C
+PiomelliLiu/PiomelliLiu.C
+
+LIB = $(FOAM_USER_LIBBIN)/libincompressibleLESModels-extended
